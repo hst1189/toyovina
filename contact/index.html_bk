@@ -1,0 +1,805 @@
+
+
+
+<!DOCTYPE js>
+<html class="no-js" lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>お問い合わせ | シュークリーム専門店 ビアードパパ</title>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.0 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<meta name="description" content="いつもできたて作りたてシュークリーム専門店 ビアードパパへのお問い合わせ" />
+	<link rel="canonical" href="https://www.beardpapa.jp/contact/" />
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="お問い合わせ | シュークリーム専門店 ビアードパパ" />
+	<meta property="og:description" content="いつもできたて作りたてシュークリーム専門店 ビアードパパへのお問い合わせ" />
+	<meta property="og:url" content="https://www.beardpapa.jp/contact/" />
+	<meta property="og:site_name" content="シュークリーム専門店 ビアードパパ" />
+	<meta property="article:modified_time" content="2023-04-07T02:33:48+00:00" />
+	<meta property="og:image" content="https://www.beardpapa.jp/wp-content/uploads/2023/05/ogp-img.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="推定読み取り時間" />
+	<meta name="twitter:data1" content="1分" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.beardpapa.jp/contact/","url":"https://www.beardpapa.jp/contact/","name":"お問い合わせ | シュークリーム専門店 ビアードパパ","isPartOf":{"@id":"https://www.beardpapa.jp/#website"},"datePublished":"2023-03-24T09:41:56+00:00","dateModified":"2023-04-07T02:33:48+00:00","description":"いつもできたて作りたてシュークリーム専門店 ビアードパパへのお問い合わせ","breadcrumb":{"@id":"https://www.beardpapa.jp/contact/#breadcrumb"},"inLanguage":"ja","potentialAction":[{"@type":"ReadAction","target":["https://www.beardpapa.jp/contact/"]}]},{"@type":"BreadcrumbList","@id":"https://www.beardpapa.jp/contact/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://www.beardpapa.jp/"},{"@type":"ListItem","position":2,"name":"お問い合わせ"}]},{"@type":"WebSite","@id":"https://www.beardpapa.jp/#website","url":"https://www.beardpapa.jp/","name":"シュークリーム専門店 ビアードパパ","description":"いつもできたて作りたて。ビアードパパ（beard papa）は、お店で手作りのシュークリーム専門店です。","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.beardpapa.jp/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"ja"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.beardpapa.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.beardpapa.jp%2Fcontact%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.beardpapa.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.beardpapa.jp%2Fcontact%2F&#038;format=xml" />
+<link rel="https://api.w.org/" href="https://www.beardpapa.jp/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.beardpapa.jp/wp-json/wp/v2/pages/221" /><link rel="icon" href="https://www.beardpapa.jp/wp-content/uploads/2023/07/favicon.ico" sizes="32x32" />
+<link rel="icon" href="https://www.beardpapa.jp/wp-content/uploads/2023/07/favicon.ico" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.beardpapa.jp/wp-content/uploads/2023/07/favicon.ico" />
+<meta name="msapplication-TileImage" content="https://www.beardpapa.jp/wp-content/uploads/2023/07/favicon.ico" />
+	<link rel="shortcut icon" href="/images/common/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" href="/images/common/touch-icon.png" />
+  <script src="https://code.jquery.com/jquery-3.6.4.min.js"
+  integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8="
+  crossorigin="anonymous"></script>
+  <script src="https://code.jquery.com/jquery-migrate-3.4.1.min.js"
+  integrity="sha256-UnTxHm+zKuDPLfufgEMnKGXDl6fEIjtM+n1Q6lL73ok="
+  crossorigin="anonymous"></script>
+  <link href="/css/style.css" rel="stylesheet">
+  <link href="https://www.beardpapa.jp/wp-content/themes/muginoho_beadpapa_2023/style.css" rel="stylesheet">
+  <!-- Google Tag Manager -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-N5MHX27');</script>
+  <!-- End Google Tag Manager -->
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+p.is-style-no-margin {
+        margin-bottom: 0
+      }
+    
+/*# sourceURL=wp-block-paragraph-inline-css */
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='mw-wp-form-css' href='https://www.beardpapa.jp/wp-content/plugins/mw-wp-form/css/style.css?ver=6.9.1' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+</head>
+
+<body class="p-contact">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MHX27"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+  <header class="header">
+    <div class="inner">
+      <h2 class="logo"><a href="/"><img src="/images/common/logo-header.svg" alt="beard papa's fresh'n natural cream puffs" /></a></h2>
+    </div>
+  </header>
+  <main class="">
+        <div class="c-menu js-menu">
+      <div class="outer">
+        <div class="btn pc js-menu-btn"><span class="icon js-menu-icon"></span>
+          <p class="js-menu-text">Menu</p>
+        </div>
+        <div class="inner js-menu-inner">
+          <ul class="close js-menu-close">
+            <li><a href="/lineup"><img class="icon" src="/images/common/icon-menu-1.svg" alt="" /><span class="text">Line up</span></a></li>
+            <li><a href="/shop"><img class="icon" src="/images/common/icon-menu-2.svg" alt="" /><span class="text">Shop</span></a></li>
+            <li><a href="/news"><img class="icon" src="/images/common/icon-menu-3.svg" alt="" /><span class="text">News</span></a></li>
+            <li class="btn sp js-menu-btn"><span class="icon js-menu-icon"></span>
+              <p class="js-menu-text">Menu</p>
+            </li>
+          </ul>
+          <nav class="open js-menu-open-inner">
+            <div class="inner">
+              <ul>
+                <li><a href="/"><span class="en">Home</span><span class="ja">ホーム</span></a></li>
+                <li><a href="/lineup"><span class="en">Line up</span><span class="ja">商品情報</span></a></li>
+                <li><a href="/shop"><span class="en">Shop</span><span class="ja">店舗情報</span></a></li>
+                <li><a href="/news"><span class="en">News</span><span class="ja">お知らせ</span></a></li>
+              </ul>
+              <ul>
+                <li><a href="/about">ビアードパパについて</a></li>
+                <li><a href="/app">ビアードパパ モバイルアプリ</a></li>
+                <li><a class="blank" href="https://liff.line.me/1655943739-ov0GAw7B?utm_source=homepage&amp;utm_medium=banner&amp;utm_campaign=launch" target="_blank">モバイルオーダー</a></li>
+                <li><a class="blank" href="https://beardpapa.egift-store.com/" target="_blank">eGift</a></li>
+                <li><a href="/contact">お問い合わせ</a></li>
+                <li><a class="blank" href="https://beardpapa-recruit.net/jobfind-pc/" target="_blank">採用情報</a></li>
+                <li><a class="blank" href="https://www.daytolife.co.jp/franchise/" target="_blank">フランチャイズ募集</a></li>
+              </ul>
+              <div class="sns"><a href="https://twitter.com/beard_papa" target="_blank"><img class="twitter" src="/images/common/icon-x.svg" alt="X"></a><a href="https://www.instagram.com/beardpapa_official/" target="_blank"><img class="instagram" src="/images/common/icon-instagram.svg" alt="Instagram"></a><a href="https://www.tiktok.com/@beardpapa_japan?is_from_webapp=1&amp;sender_device=pc" target="_blank"><img class="line" src="/images/common/icon-tiktok.png" alt="TikTok"></a><a href="https://www.youtube.com/channel/UCcnFF9OVg7ZDgHwsJapqaFQ" target="_blank"><img class="youtube" src="/images/common/icon-youtube.svg" alt="YouTube"></a></div>
+              <div class="btn-sp js-menu-btn sp"><span class="icon js-menu-icon"></span>
+                <p class="js-menu-text">Close</p>
+              </div>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+<section class="kv-pages">
+  <picture>
+    <source media="(min-width:768px)" srcset="/images/contact/kv.png" /><img srcset="/images/contact/kv-sp.png" src="/images/contact/kv.png" alt="" />
+  </picture>
+</section>
+<div class="contents">
+  <div class="title-pages">
+    <h1 class="en"><span class="mojiWrap"><span class="moji js-titlePages-anim">C</span></span><span class="mojiWrap"><span class="moji js-titlePages-anim">o</span></span><span class="mojiWrap"><span class="moji js-titlePages-anim">n</span></span><span class="mojiWrap"><span class="moji js-titlePages-anim">t</span></span><span class="mojiWrap"><span class="moji js-titlePages-anim">a</span></span><span class="mojiWrap"><span class="moji js-titlePages-anim">c</span></span><span class="mojiWrap"><span class="moji js-titlePages-anim">t</span></span>
+    </h1>
+    <p class="ja ja-contact">お問い合わせ</p>
+  </div>
+  <div class="outer">
+    <div class="inner">
+      <ul class="note">
+        <li>内容によりましては、お返事に数日頂戴する場合や、ご返信できかねる場合もございます。あらかじめご了承ください。</li>
+        <li>任意の項目につきましても、差し支えない場合はなるべく記入いただけますと幸いです。</li>
+        <li>弊社よりお客様へお送りいたしましたお返事のメールの転載、二次利用はご遠慮くださいますようお願いいたします。</li>
+        <li>弊社では頂戴した内容のお返事はパソコンから送信しております。迷惑メールサービス設定をされている場合あらかじめ「@daytolife.co.jp」から受信ができるように設定をお願いいたします。</li>
+      </ul>
+      <div class="contact-progress-outer">
+        <div class="c-contactProgress">
+          <ul>
+            <li>
+              <p class="active">入力</p><span class="iconWrap active"><span class="icon"></span></span>
+            </li>
+            <li>
+              <p>確認</p><span class="iconWrap"><span class="icon"></span></span>
+            </li>
+            <li>
+              <p>完了</p><span class="iconWrap"><span class="icon"></span></span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="formWrap">
+        <script src="//www.google.com/recaptcha/api.js" async defer></script>
+<script type="text/javascript">
+$(document).on('readystatechange', function() {
+  if (document.readyState !== 'interactive') {
+      return;
+  }
+	// reCAPTCHAの挿入
+	jQuery( '.accept' ).before( '<div data-callback="syncerRecaptchaCallback" data-sitekey="6LcH2WsmAAAAAJYyAo6i7b9VniT9MdMOocUIUSQp" class="g-recaptcha"></div>' );
+	// [input] Add disabled to input or button
+	jQuery( '.mw_wp_form_input button, .mw_wp_form_input input[type="submit"]' ).attr( "disabled", "disabled" );
+	// [confirm] Remove disabled
+	jQuery( '.mw_wp_form_confirm input, .mw_wp_form_confirm select, .mw_wp_form_confirm textarea, .mw_wp_form_confirm button' ).removeAttr( 'disabled' );
+});
+// reCAPTCHA Callback
+function syncerRecaptchaCallback( code ) {
+	if(code != "") {
+		jQuery( '.mw_wp_form_input button, .mw_wp_form_input input[type="submit"]' ).removeAttr( 'disabled' );
+	}
+}
+</script>
+<style type="text/css">
+.g-recaptcha { margin: 20px 0 15px; }.g-recaptcha > div { margin: 0 auto; }</style>
+
+<p></p>
+
+
+<div id="mw_wp_form_mw-wp-form-230" class="mw_wp_form mw_wp_form_input  ">
+					<form method="post" action="" enctype="multipart/form-data">                  <div class="block item">
+                    <div class="left">
+                      <label for="item">
+                        <h2>お問い合わせ項目</h2>
+                      </label>
+                      <p class="required">必須</p>
+                    </div>
+                    <div class="right">
+                      <div class="selectWrap">
+                        
+<select name="item" id="item" class="js-contact-select js-contact-required">
+			<option value="" >
+			選択してください		</option>
+			<option value="ブランド／商品について" >
+			ブランド／商品について		</option>
+			<option value="店舗について" >
+			店舗について		</option>
+			<option value="WEBサイトについて" >
+			WEBサイトについて		</option>
+			<option value="その他お問い合わせ" >
+			その他お問い合わせ		</option>
+	</select>
+
+                      </div>
+                    </div>
+                  </div>
+                  <div class="block shopname">
+                    <div class="left">
+                      <label for="shop">
+                        <h2>店舗名</h2>
+                      </label>
+                      <p class="required">必須</p>
+                    </div>
+                    <div class="right">
+                      
+<input type="text" name="shop" id="shop" class="js-contact-required" size="60" value="" placeholder="例：〇〇店" />
+
+                      <p>※特定の店舗に関するお問い合わせの場合は、店舗名をご記入ください。<br>※それ以外の場合は「なし」とご記入ください。</p>
+                    </div>
+                  </div>
+                  <div class="block date">
+                    <div class="left">
+                      <h2 class="label">ご来店日時</h2>
+                      <p class="nonrequired">任意</p>
+                    </div>
+                    <div class="right">
+                      <label class="month">
+                        <div class="selectWrap">
+
+<select name="month" id="month" class="js-contact-select">
+			<option value="" selected='selected'>
+			ー 		</option>
+			<option value="1月" >
+			1		</option>
+			<option value="2月" >
+			2		</option>
+			<option value="3月" >
+			3		</option>
+			<option value="4月" >
+			4		</option>
+			<option value="5月" >
+			5		</option>
+			<option value="6月" >
+			6		</option>
+			<option value="7月" >
+			7		</option>
+			<option value="8月" >
+			8		</option>
+			<option value="9月" >
+			9		</option>
+			<option value="10月" >
+			10		</option>
+			<option value="11月" >
+			11		</option>
+			<option value="12月" >
+			12		</option>
+	</select>
+
+                        </div>
+                        <p>月</p>
+                      </label>
+                      <label class="day">
+                        <div class="selectWrap">
+
+<select name="day" id="day" class="js-contact-select">
+			<option value="" selected='selected'>
+			ー 		</option>
+			<option value="1日" >
+			1		</option>
+			<option value="2日" >
+			2		</option>
+			<option value="3日" >
+			3		</option>
+			<option value="4日" >
+			4		</option>
+			<option value="5日" >
+			5		</option>
+			<option value="6日" >
+			6		</option>
+			<option value="7日" >
+			7		</option>
+			<option value="8日" >
+			8		</option>
+			<option value="9日" >
+			9		</option>
+			<option value="10日" >
+			10		</option>
+			<option value="11日" >
+			11		</option>
+			<option value="12日" >
+			12		</option>
+			<option value="13日" >
+			13		</option>
+			<option value="14日" >
+			14		</option>
+			<option value="15日" >
+			15		</option>
+			<option value="16日" >
+			16		</option>
+			<option value="17日" >
+			17		</option>
+			<option value="18日" >
+			18		</option>
+			<option value="19日" >
+			19		</option>
+			<option value="20日" >
+			20		</option>
+			<option value="21日" >
+			21		</option>
+			<option value="22日" >
+			22		</option>
+			<option value="23日" >
+			23		</option>
+			<option value="24日" >
+			24		</option>
+			<option value="25日" >
+			25		</option>
+			<option value="26日" >
+			26		</option>
+			<option value="27日" >
+			27		</option>
+			<option value="28日" >
+			28		</option>
+			<option value="29日" >
+			29		</option>
+			<option value="30日" >
+			30		</option>
+			<option value="31日" >
+			31		</option>
+	</select>
+
+                        </div>
+                        <p>日</p>
+                      </label>
+                      <label class="hour">
+                        <div class="selectWrap">
+                          
+<select name="hour" id="hour" class="js-contact-select">
+			<option value="" selected='selected'>
+			ー 		</option>
+			<option value="8時" >
+			8		</option>
+			<option value="9時" >
+			9		</option>
+			<option value="10時" >
+			10		</option>
+			<option value="11時" >
+			11		</option>
+			<option value="12時" >
+			12		</option>
+			<option value="13時" >
+			13		</option>
+			<option value="14時" >
+			14		</option>
+			<option value="15時" >
+			15		</option>
+			<option value="16時" >
+			16		</option>
+			<option value="17時" >
+			17		</option>
+			<option value="18時" >
+			18		</option>
+			<option value="19時" >
+			19		</option>
+			<option value="20時" >
+			20		</option>
+			<option value="21時" >
+			21		</option>
+			<option value="22時" >
+			22		</option>
+			<option value="23時" >
+			23		</option>
+	</select>
+
+                        </div>
+                        <p>時頃</p>
+                      </label>
+                    </div>
+                  </div>
+                  <div class="block number">
+                    <div class="left">
+                      <label for="number">
+                        <h2>レシート／伝票番号</h2>
+                      </label>
+                      <p class="nonrequired">任意</p>
+                    </div>
+                    <div class="right">
+
+<input type="text" name="number" id="number" size="60" value="" placeholder="例：1111-2222（店舗によって変わります）" />
+
+                    </div>
+                  </div>
+                  <div class="block comment">
+                    <div class="left">
+                      <label for="comment">
+                        <h2>お問い合わせ内容</h2>
+                      </label>
+                      <p class="required">必須</p>
+                    </div>
+                    <div class="right">
+
+<textarea name="comment" id="comment" class="js-contact-required" cols="50" rows="5" ></textarea>
+
+<img decoding="async" class="js-contact-image-target" src="" />
+                      <p class="text">※画像を添付する場合は以下からご登録ください（5MBまで）</p>
+                    </div>
+                  </div>
+                  <div class="block image">
+                    <div class="left"></div>
+                    <div class="right">
+                      <label><span class="none">画像を添付する</span><span class="icon"></span>
+
+<input type="file" name="image" class="js-contact-image"/>
+<span data-mwform-file-delete="image" class="mwform-file-delete">&times;</span>
+
+                      </label>
+                      <div class="delete js-contact-delete"><span class="icon"></span>
+                        <p>削除する</p>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="block replay">
+                    <div class="left">
+                      <h2>返信のご希望</h2>
+                      <p class="nonrequired">任意</p>
+                    </div>
+                    <div class="right">
+
+                      	<span class="mwform-radio-field horizontal-item">
+		<label >
+			<input type="radio" name="replay" value="希望する" class="js-contact-radio" />
+			<span class="mwform-radio-field-text">希望する</span>
+		</label>
+	</span>
+	<span class="mwform-radio-field horizontal-item">
+		<label >
+			<input type="radio" name="replay" value="希望しない" class="js-contact-radio" />
+			<span class="mwform-radio-field-text">希望しない</span>
+		</label>
+	</span>
+
+<input type="hidden" name="__children[replay][]" value="{&quot;\u5e0c\u671b\u3059\u308b&quot;:&quot;\u5e0c\u671b\u3059\u308b&quot;,&quot;\u5e0c\u671b\u3057\u306a\u3044&quot;:&quot;\u5e0c\u671b\u3057\u306a\u3044&quot;}" />
+
+                    </div>
+                  </div>
+                  <div class="block name">
+                    <div class="left">
+                      <h2>お名前</h2>
+                      <p class="required">必須</p>
+                    </div>
+                    <div class="right">
+                      <div class="kanji">
+                        <div>
+                          <label>
+                            <p>姓</p>
+
+<input type="text" name="name_sei-kanji" class="js-contact-required" size="60" value="" placeholder="例：麦田" />
+
+                          </label>
+                        </div>
+                        <div>
+                          <label>
+                            <p>名</p>
+
+<input type="text" name="name_mei-kanji" class="js-contact-required" size="60" value="" placeholder="例：太郎" />
+
+                          </label>
+                        </div>
+                      </div>
+                      <div class="kana">
+                        <div>
+                          <label>
+                            <p>セイ</p>
+
+<input type="text" name="name_sei-kana" class="js-contact-required" size="60" value="" placeholder="例：ムギタ" />
+
+                          </label>
+                        </div>
+                        <div>
+                          <label>
+                            <p>メイ</p>
+
+<input type="text" name="name_mei-kana" class="js-contact-required" size="60" value="" placeholder="例：タロウ" />
+
+                          </label>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="block mail">
+                    <div class="left">
+                      <label for="mail">
+                        <h2>メールアドレス</h2>
+                      </label>
+                      <p class="required">必須</p>
+                    </div>
+                    <div class="right">
+
+<input type="email" name="mail" id="mail" class="js-contact-required" size="60" value="" placeholder="例：address@daytolife.co.jp" data-conv-half-alphanumeric="true"/>
+
+                    </div>
+                  </div>
+                  <div class="block tel">
+                    <div class="left">
+                      <label for="tel">
+                        <h2>電話番号</h2>
+                      </label>
+                      <p class="nonrequired">任意</p>
+                    </div>
+                    <div class="right">
+
+<input type="text" name="tel" id="tel" size="60" value="" placeholder="例：090-****-****" />
+
+                    </div>
+                  </div>
+                  <div class="block address">
+                    <div class="left">
+                      <h2>ご住所</h2>
+                      <p class="nonrequired">任意</p>
+                    </div>
+                    <div class="right">
+                      <label>
+                        <p>郵便番号</p>
+
+<input type="text" name="zip" size="60" value="" placeholder="例：530-0047" />
+
+                      </label>
+                      <label>
+                        <p>都道府県</p>
+                        <div class="selectWrap">
+                          
+<select name="prefectures" class="js-contact-select">
+			<option value="" selected='selected'>
+			選択してください		</option>
+			<option value="北海道" >
+			北海道		</option>
+			<option value="青森県" >
+			青森県		</option>
+			<option value="岩手県" >
+			岩手県		</option>
+			<option value="宮城県" >
+			宮城県		</option>
+			<option value="秋田県" >
+			秋田県		</option>
+			<option value="山形県" >
+			山形県		</option>
+			<option value="福島県" >
+			福島県		</option>
+			<option value="茨城県" >
+			茨城県		</option>
+			<option value="栃木県" >
+			栃木県		</option>
+			<option value="群馬県" >
+			群馬県		</option>
+			<option value="埼玉県" >
+			埼玉県		</option>
+			<option value="千葉県" >
+			千葉県		</option>
+			<option value="東京都" >
+			東京都		</option>
+			<option value="神奈川県" >
+			神奈川県		</option>
+			<option value="新潟県" >
+			新潟県		</option>
+			<option value="山梨県" >
+			山梨県		</option>
+			<option value="長野県" >
+			長野県		</option>
+			<option value="富山県" >
+			富山県		</option>
+			<option value="石川県" >
+			石川県		</option>
+			<option value="福井県" >
+			福井県		</option>
+			<option value="岐阜県" >
+			岐阜県		</option>
+			<option value="静岡県" >
+			静岡県		</option>
+			<option value="愛知県" >
+			愛知県		</option>
+			<option value="三重県" >
+			三重県		</option>
+			<option value="滋賀県" >
+			滋賀県		</option>
+			<option value="京都府" >
+			京都府		</option>
+			<option value="大阪府" >
+			大阪府		</option>
+			<option value="兵庫県" >
+			兵庫県		</option>
+			<option value="奈良県" >
+			奈良県		</option>
+			<option value="和歌山県" >
+			和歌山県		</option>
+			<option value="鳥取県" >
+			鳥取県		</option>
+			<option value="島根県" >
+			島根県		</option>
+			<option value="岡山県" >
+			岡山県		</option>
+			<option value="広島県" >
+			広島県		</option>
+			<option value="山口県" >
+			山口県		</option>
+			<option value="徳島県" >
+			徳島県		</option>
+			<option value="香川県" >
+			香川県		</option>
+			<option value="愛媛県" >
+			愛媛県		</option>
+			<option value="高知県" >
+			高知県		</option>
+			<option value="福岡県" >
+			福岡県		</option>
+			<option value="佐賀県" >
+			佐賀県		</option>
+			<option value="長崎県" >
+			長崎県		</option>
+			<option value="熊本県" >
+			熊本県		</option>
+			<option value="大分県" >
+			大分県		</option>
+			<option value="宮崎県" >
+			宮崎県		</option>
+			<option value="鹿児島県" >
+			鹿児島県		</option>
+			<option value="沖縄県" >
+			沖縄県		</option>
+	</select>
+
+                        </div>
+                      </label>
+                      <label>
+                        <p>市区町村以下</p>
+
+<input type="text" name="address" size="60" value="" placeholder="例：大阪市北区西天満3-13-20 ASビル 2F" />
+
+                      </label>
+                    </div>
+                  </div>
+                  <div class="block gender">
+                    <div class="left">
+                      <label for="gender">
+                        <h2>性別</h2>
+                      </label>
+                      <p class="nonrequired">任意</p>
+                    </div>
+                    <div class="right">
+                      <div class="selectWrap">
+
+<select name="gender" id="gender" class="js-contact-select">
+			<option value="" selected='selected'>
+			選択してください		</option>
+			<option value="男性" >
+			男性		</option>
+			<option value="女性" >
+			女性		</option>
+			<option value="回答しない" >
+			回答しない		</option>
+	</select>
+
+<input type="hidden" name="__children[gender][]" value="{&quot;&quot;:&quot;\u9078\u629e\u3057\u3066\u304f\u3060\u3055\u3044&quot;,&quot;\u7537\u6027&quot;:&quot;\u7537\u6027&quot;,&quot;\u5973\u6027&quot;:&quot;\u5973\u6027&quot;,&quot;\u56de\u7b54\u3057\u306a\u3044&quot;:&quot;\u56de\u7b54\u3057\u306a\u3044&quot;}" />
+
+                      </div>
+                    </div>
+                  </div>
+                  <div class="block age">
+                    <div class="left">
+                      <label for="age">
+                        <h2>年齢</h2>
+                      </label>
+                      <p class="nonrequired">任意</p>
+                    </div>
+                    <div class="right">
+
+<input type="text" name="age" id="age" size="60" value="" placeholder="例：30" />
+
+                    </div>
+                  </div>
+                  <div class="accept">
+                    <label><span class="box js-contact-checkbox-target"></span><span class="text"><a href="https://www.daytolife.co.jp/privacy_policy/" target="_blank" rel="noopener">プライバシーポリシー</a><span>に同意し確認へ進む</span></span>
+                      
+	<span class="mwform-checkbox-field horizontal-item">
+		<label >
+			<input type="checkbox" name="check-policy[data][]" value="同意する" class="js-contact-checkbox" />
+			<span class="mwform-checkbox-field-text">同意する</span>
+		</label>
+	</span>
+
+<input type="hidden" name="check-policy[separator]" value="," />
+
+<input type="hidden" name="__children[check-policy][]" value="{&quot;\u540c\u610f\u3059\u308b&quot;:&quot;\u540c\u610f\u3059\u308b&quot;}" />
+
+                    </label>
+                  </div>
+<div class="buttons">
+                  
+
+<input type="submit" name="submitConfirm" value="確認画面へ" class="js-contact-confirm next"/>
+
+                </div><input type="hidden" name="mw-wp-form-form-id" value="230" /><input type="hidden" name="mw_wp_form_token" value="f137b5aed845b17cfd774de8caa7ade3a415602177e0f5592074566be4a811c5" /></form>
+				<!-- end .mw_wp_form --></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</main>
+<footer>
+  <div class="loop">
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" />
+    </div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" />
+    </div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" />
+    </div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" />
+    </div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" />
+    </div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" />
+    </div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+    <div class="imgWrap"><img class="text" src="/images/common/loop-footer.svg" alt="Social media" /></div>
+  </div>
+  <div class="inner">
+    <ul class="sns">
+      <li class="twitter"><a href="https://twitter.com/beard_papa" target="_blank">
+          <div class="imgWrap"><img src="/images/common/icon-x.svg" alt="X"></div></a></li>
+      <li class="instagram"><a href="https://www.instagram.com/beardpapa_official/" target="_blank">
+          <div class="imgWrap"><img src="/images/common/icon-instagram.svg" alt="Instagram"></div></a></li>
+      <li class="tiktok"><a href="https://www.tiktok.com/@beardpapa_japan?is_from_webapp=1&amp;sender_device=pc" target="_blank">
+          <div class="imgWrap"><img src="/images/common/icon-tiktok.png" alt="TikTok"></div></a></li>
+      <li class="youtube"><a href="https://www.youtube.com/channel/UCcnFF9OVg7ZDgHwsJapqaFQ" target="_blank">
+          <div class="imgWrap"><img src="/images/common/icon-youtube.svg" alt="YouTube"></div></a></li>
+    </ul>
+    <div class="links"><img class="pagetop js-footer-pagetop" src="/images/common/img-footer-pagetop.svg" alt="Top" />
+      <div class="left"><a class="logo" href="/"><img src="/images/common/logo-footer.svg" alt="beard papa's" /></a>
+        <ul>
+          <li><a href="/lineup"><img src="/images/common/icon-footer-1.svg"/><span class="en">Lineup</span><span class="ja">商品情報</span></a></li>
+          <li><a href="/shop"><img src="/images/common/icon-footer-2.svg"/><span class="en">Shop</span><span class="ja">店舗情報</span></a></li>
+          <li><a href="/news"><img src="/images/common/icon-footer-3.svg"/><span class="en">News</span><span class="ja">お知らせ</span></a></li>
+        </ul>
+      </div>
+      <div class="center">
+        <ul>
+          <li><a href="/about">ビアードパパについて</a></li>
+          <li><a href="/app">ビアードパパ モバイルアプリ</a></li>
+          <li><a class="blank" href="https://liff.line.me/1655943739-ov0GAw7B?utm_source=homepage&amp;utm_medium=banner&amp;utm_campaign=launch" target="_blank">モバイルオーダー</a></li>
+          <li><a class="blank" href="https://beardpapa.egift-store.com/" target="_blank">eGift</a></li>
+          <li><a href="/contact">お問い合わせ</a></li>
+          <li><a class="blank" href="https://beardpapa-recruit.net/jobfind-pc/" target="_blank">採用情報</a></li>
+          <li><a class="blank" href="https://www.daytolife.co.jp/franchise/" target="_blank">フランチャイズ募集</a></li>
+        </ul>
+      </div>
+      <div class="right">
+        <ul>
+          <li><a class="blank" href="https://www.daytolife.co.jp/company/profile/" target="_blank">企業情報</a></li>
+          <li><a class="blank" href="https://www.daytolife.co.jp/privacy_policy/" target="_blank">プライバシーポリシー</a></li>
+          <li><a class="blank" href="https://www.daytolife.co.jp/social_media_policy/" target="_blank">ソーシャルメディアポリシー</a></li>
+        </ul>
+      </div>
+    </div>
+    <p class="copyright">Copyright (C) daytolife.co.jp. All rights reserved.</p>
+  </div>
+</footer>
+<script defer src="/js/home.js"></script>
+<script defer src="/js/app.js"></script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/muginoho_beadpapa_2023/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://www.beardpapa.jp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.beardpapa.jp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.beardpapa.jp/wp-content/plugins/mw-wp-form/js/form.js?ver=6.9.1" id="mw-wp-form-js"></script>
+</body>
+
+</html>
