@@ -606,7 +606,7 @@
 
 </head>
 
-<body class="">
+<body class="p-shop">
 
   <header class="header">
     <div class="inner">
@@ -614,8 +614,11 @@
     </div>
   </header>
 
-  <main class="p-index">
-
+  <main class="">
+    <div class="c-bgPages">
+      <div class="circle"></div>
+    </div>
+    <div class="c-rotatePages"><img src="/images/shop-search/img-rotate.svg" /></div>
     <div class="c-menu js-menu">
       <div class="outer">
         <div class="btn pc js-menu-btn"><span class="icon js-menu-icon"></span>
@@ -668,52 +671,127 @@
     </div>
 
 
-
-
     <div class="inner">
-      <div class="imgWrap"><img src="/images/common/maintenance.gif" alt="YouTube"></div>
-            
-      <section class="kv-index">
-        <div class="inner">
-          <div class="deco"></div>
-          <div class="imgwrap"><img class="js-index-kv" src="" alt=""></div>
+      <section class="kv-pages">
+        <picture>
+          <source media="(min-width:768px)" srcset="/images/shop/kv-pc.jpg" /><img srcset="/images/shop/kv-sp.jpg"
+            src="/images/shop/kv-pc.jpg" alt="" />
+        </picture>
+      </section>
+
+      <div class="contents">
+        <div class="title-pages">
+          <h1 class="en"><span class="mojiWrap"><span class="moji js-titlePages-anim">S</span></span><span
+              class="mojiWrap"><span class="moji js-titlePages-anim">h</span></span><span class="mojiWrap"><span
+                class="moji js-titlePages-anim">o</span></span><span class="mojiWrap"><span
+                class="moji js-titlePages-anim">p</span></span>
+          </h1>
+          <p class="ja ja-shop">店舗情報</p>
         </div>
-      </section>
 
+        <section class="shops">
+          <div class="search-block-outer">
+            <div class="c-searchBlock">
+              <div class="inner">
+                <h2 class="title">地名から探す</h2>
+                <form role="search" method="get" id="searchform" action="/shop/search">
+                  <input type="text" value="" name="s" id="s" placeholder="キーワードを入力してください" />
+                  <input type="hidden" name="post_type" value="shop" />
+                  <button type="submit" id="searchsubmit" disabled>検索</button>
+                </form>
+              </div>
+            </div>
+          </div>
 
-      <section class="about">
-      </section>
+          <div class="shops-block-outer">
+            <div class="c-shopBlock">
+              <h2>一覧から探す</h2>
+              <ul>
+                <li class="js-prefectures-wrap">
+                  <h3 class="js-prefectures-trigger"><span class="name">北部</span><span
+                      class="icon js-prefectures-icon"><span class="iconInner"></span></span></h3>
+                  <div class="listWrap js-prefectures-listwrap">
+                    <ul class="js-prefectures-list">
+                      <li>
+                        <a href="/shop/Hanoi">
+                          <span class="name">ハノイ営業所</span><span class="arrow"><span class="arrow-icon"></span></span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li class="js-prefectures-wrap">
+                  <h3 class="js-prefectures-trigger"><span class="name">南部</span><span
+                      class="icon js-prefectures-icon"><span class="iconInner"></span></span></h3>
+                  <div class="listWrap js-prefectures-listwrap">
+                    <ul class="js-prefectures-list">
+                      <li>
+                        <a href="/shop/HoChiMinh">
+                          <span class="name">ホーチミン営業所</span><span class="arrow"><span class="arrow-icon"></span></span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+              </ul>
+              <div class="inner">
+                <picture>
+                  <source media="(min-width:768px)" srcset="/images/shop/map.png" /><img srcset="/images/shop/map.png"
+                    src="/images/shop/map.png" alt="" />
+                </picture>
+              </div>
 
+            </div>
+          </div>
 
-      <section class="lineup" id="lineup">
-      </section>
+          <div class="shops-block-outer">
+            <div class="c-shopBlock">
+            </div>
+          </div>
+        </section>
 
+        <section class="newsblockWrap" id="shop">
+          <div class="news-block-outer">
+            <div class="c-newsBlock">
+              <div class="inner">
+                <h2 class="title">News</h2>
+                <p class="subtitle">店舗／お知らせ情報</p>
+                <ul>
+                  <li><a href="#shop">
+                      <div class="top">
+                        <p class="cate">店舗</p>
+                        <p class="date">2026.03.08</p>
+                      </div>
+                      <div class="bottom">
+                        <h5 class="title">ホーチミン営業所開業 <font color="red">New!</font>
+                        </h5>
+                      </div><span class="arrowWrap"><span class="arrow"></span></span>
+                    </a>
+                  </li>
+                  <li><a href="#shop">
+                      <div class="top">
+                        <p class="cate">店舗</p>
+                        <p class="date">2026.02.22</p>
+                      </div>
+                      <div class="bottom">
+                        <h5 class="title">ハノイ営業所開業</h5>
+                      </div><span class="arrowWrap"><span class="arrow"></span></span>
+                    </a>
+                  </li>
+                </ul>
+                <div class="buttonWrap">
+                  <a class="c-button blue" href="/info">
+                    <p class="blue">More</p>
+                    <div class="arrow"><span class="arrow-bg blue"></span><img src="/images/common/arrow-yellow.svg" />
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
 
-      <section class="news" id="news">
-      </section>
-
-
-      <section class="loop">
-        <div class="inner"><span></span><span></span></div>
-      </section>
-
-
-      <section class="shop" id="shop">
-      </section>
-
-
-      <div class="hand">
-        <div class="img-hand"></div>
-        <img class="img-border" src="/images/index/bg-info-top.png" alt="">
       </div>
-
-
-      <section class="info">
-
-        <img src="/images/index/bg-info-bottom.png" alt="">
-      </section>
-    </div>
-
   </main>
 
 
@@ -735,7 +813,7 @@
     <div class="inner">
       <ul class="sns">
         <li class="twitter">
-          <a href="https://x.com/beard_papa" target="_blank">
+          <a href="https://x.com/" target="_blank">
             <div class="imgWrap"><img src="/images/common/icon-x.svg" alt="X"></div>
           </a>
         </li>

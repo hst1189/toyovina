@@ -76,11 +76,13 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5MHX27"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+
   <header class="header">
     <div class="inner">
       <h2 class="logo"><a href="/"><img src="/images/common/logo-header.svg" alt="beard papa's fresh'n natural cream puffs" /></a></h2>
     </div>
   </header>
+
   <main class="">
         <div class="c-menu js-menu">
       <div class="outer">

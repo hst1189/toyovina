@@ -2698,10 +2698,10 @@ footer>.inner .copyright {
     margin-bottom: 40px
 }
 
-.c-shopBlock>ul>li:last-child {
+/*.c-shopBlock>ul>li:last-child {
     margin-bottom: 0
 }
-
+*/
 @media(max-width:768px) {
     .c-shopBlock>ul>li {
         margin-bottom: 7.69vw

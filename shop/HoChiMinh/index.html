@@ -606,7 +606,7 @@
 
 </head>
 
-<body class="p-news">
+<body class="p-shopSearch">
 
   <header class="header">
     <div class="inner">
@@ -618,7 +618,7 @@
     <div class="c-bgPages">
       <div class="circle"></div>
     </div>
-    <div class="c-rotatePages"><img src="/images/news_info/img-rotate.svg" /></div>
+    <div class="c-rotatePages"><img src="/images/shop-search/img-rotate.svg" /></div>
     <div class="c-menu js-menu">
       <div class="outer">
         <div class="btn pc js-menu-btn"><span class="icon js-menu-icon"></span>
@@ -672,65 +672,70 @@
 
 
     <div class="inner">
-      <section class="kv-pages">
-        <picture>
-          <source media="(min-width:768px)" srcset="/images/news/kv-pc.jpg" /><img srcset="/images/news/kv-sp.jpg"
-            src="/images/news/kv-pc.jpg" alt="" />
-        </picture>
-      </section>
-
       <section class="contents">
-        <div class="title-pages">
-          <h1 class="en"><span class="mojiWrap"><span class="moji js-titlePages-anim">N</span></span><span
-              class="mojiWrap"><span class="moji js-titlePages-anim">e</span></span><span class="mojiWrap"><span
-                class="moji js-titlePages-anim">w</span></span><span class="mojiWrap"><span
-                class="moji js-titlePages-anim">s</span></span>
-          </h1>
-          <p class="ja">お知らせ</p>
-        </div>
-        <div class="c-newsInfo" id="info">
-          <div class="inner">
-            <div class="tabs">
-              <div class="tab"><a href="/news/">サービス／キャンペーン関連</a></div>
-              <div class="tab active">
-                <p>店舗／お知らせ関連</p>
-              </div>
-            </div>
-            <div class="listsWrap">
-              <ul class="lists">
-                <li class="c-newsItem">
-                  <a href="#info">
-                    <div class="top">
-                      <p class="cate info">店舗</p>
-                      <p class="date">2026.03.08</p>
-                    </div>
-                    <p class="bottom">ホーチミン営業所開業 <font color="red">New!</font>
-                    </p>
-                    <div class="arrow"><span class="arrow-bg"></span><img src="/images/common/arrow-blue.svg" /></div>
-                  </a>
+        <div class="c-shopResult">
+          <div class="headline">
+            <p class="subtitle">店舗情報</p>
+            <h1 class="title">ホーチミンの店舗一覧</h1>
+          </div>
+          <div class="result">
+            <div class="service">
+              <h2 class="title">お支払い・提供サービス</h2>
+              <ul class="c-shopService">
+                <li class="item"><span class="icon is-active"></span>
+                  <p class="name">クレジット<br>決済</p>
                 </li>
-                <li class="c-newsItem">
-                  <a href="#info">
-                    <div class="top">
-                      <p class="cate shop">店舗</p>
-                      <p class="date">2026.02.22</p>
-                    </div>
-                    <p class="bottom">ハノイ営業所開業</p>
-                    <div class="arrow"><span class="arrow-bg"></span><img src="/images/common/arrow-blue.svg" /></div>
-                  </a>
+                <li class="item"><span class="icon is-active"></span>
+                  <p class="name">交通系IC<br>決済</p>
+                </li>
+                <li class="item"><span class="icon is-active"></span>
+                  <p class="name">QRコード<br>決済</p>
+                </li>
+                <li class="item"><span class="icon  is-active"></span>
+                  <p class="name">モバイル<br>申し込み</p>
+                </li>
+                <li class="item"><span class="icon is-active"></span>
+                  <p class="name">速達・急ぎ<br>サービス</p>
                 </li>
               </ul>
-              <div class='wp-pagenavi' role='navigation'>
-                <span aria-current='page' class='current'>1</span>
-                <a class="page larger" title="ページ 2" href="#info">2</a>
-                <a class="page larger" title="ページ 3" href="#info">3</a>
-                <span class='extend'>...</span>
-                <a class="nextpostslink" rel="next" aria-label="次のページ" href="#info"></a>
-                <a class="last" aria-label="Last Page" href="#info">最後 »</a>
-              </div>
+            </div>
+            <div class="list">
+              <ul>
+                <!--ホーチミン１号店-->
+                <li>
+                  <a href="#">
+                    <div class="top">
+                      <div class="text">
+                        <h2 class="title">ホーチミン１号店</h2>
+                        <p class="address">〒100000 Cảng hàng không quốc tế Tân Sơn Nhất</p>
+                      </div>
+                      <div class="arrowWrap"><span class="arrow"></span></div>
+                    </div>
+                    <div class="icons">
+                      <span class="icon is-active"></span>
+                      <span class="icon"></span>
+                      <span class="icon is-active"></span>
+                      <span class="icon is-active"></span>
+                      <span class="icon"></span>
+                    </div>
+                    <!-- 埋め込みコードの例 -->
+                    <iframe
+                      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62711.254974373296!2d106.64141685927326!3d10.776541496032593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529111aa89f9d%3A0xd8f09cc0aa1b27f3!2z44K_44Oz44K944Oz44OL44Oj44OD44OI5Zu96Zqb56m65riv!5e0!3m2!1sja!2sjp!4v1772357473112!5m2!1sja!2sjp"
+                      width="100%" height="450" style="border:0;margin-top:20px;" allowfullscreen="" loading="lazy"
+                      referrerpolicy="no-referrer-when-downgrade"></iframe>
+                  </a>
+                </li>
+
+              </ul>
             </div>
           </div>
         </div>
+
+        <a class="c-buttonBack blue" href="/shop/">
+          <p class="blue">店舗一覧に戻る</p>
+          <div class="arrow"><span class="arrow-bg blue"></span><img src="/images/common/arrow-yellow.svg" />
+          </div>
+        </a>
       </section>
     </div>
 
