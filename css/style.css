@@ -3701,7 +3701,7 @@ footer>.inner .copyright {
 }
 
 .p-index:before {
-    background-image: url(/images/index/img-hand.png);
+    background-image: url(/images/index/img-hand-pc.jpg);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -3719,7 +3719,7 @@ footer>.inner .copyright {
 @media(max-width:768px) {
     .p-index:before {
         background-color: #fff100;
-        background-image: url(/images/index/img-hand-sp.png);
+        background-image: url(/images/index/img-hand.jpg);
         background-position: bottom;
         background-size: cover
     }
