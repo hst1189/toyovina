@@ -595,8 +595,7 @@
 
 </head>
 
-
-<body class="p-shop">
+<body class="p-lineup">
 
   <header class="header">
     <div class="inner">
@@ -608,9 +607,7 @@
     <div class="c-bgPages">
       <div class="circle"></div>
     </div>
-    <div class="c-rotatePages"><img src="/images/index/img-rotate.svg" /></div>
-
-    <!--menu-->
+    <div class="c-rotatePages"><img src="/images/lineup-detail/img-rotate.svg" /></div>
     <div class="c-menu js-menu">
       <div class="outer">
         <div class="btn pc js-menu-btn"><span class="icon js-menu-icon"></span>
@@ -618,11 +615,11 @@
         </div>
         <div class="inner js-menu-inner">
           <ul class="close js-menu-close">
-            <li><a href="#lineup"><img class="icon" src="/images/common/icon-menu-1.svg" alt="" /><span
+            <li><a href="/lineup"><img class="icon" src="/images/common/icon-menu-1.svg" alt="" /><span
                   class="text">Service</span></a></li>
-            <li><a href="#shop"><img class="icon" src="/images/common/icon-menu-2.svg" alt="" /><span
+            <li><a href="/shop"><img class="icon" src="/images/common/icon-menu-2.svg" alt="" /><span
                   class="text">Shop</span></a></li>
-            <li><a href="#news"><img class="icon" src="/images/common/icon-menu-3.svg" alt="" /><span
+            <li><a href="/news"><img class="icon" src="/images/common/icon-menu-3.svg" alt="" /><span
                   class="text">News</span></a></li>
             <li class="btn sp js-menu-btn"><span class="icon js-menu-icon"></span>
               <p class="js-menu-text">Menu</p>
@@ -631,22 +628,20 @@
           <nav class="open js-menu-open-inner">
             <div class="inner">
               <ul>
-                <li><a href="#"><span class="en">Home</span><span class="ja">ホーム</span></a></li>
-                <li><a href="#lineup"><span class="en">Service</span><span class="ja">サービス情報</span></a></li>
-                <li><a href="#shop"><span class="en">Shop</span><span class="ja">店舗情報</span></a></li>
-                <li><a href="#news"><span class="en">News</span><span class="ja">お知らせ</span></a></li>
+                <li><a href="/"><span class="en">Home</span><span class="ja">ホーム</span></a></li>
+                <li><a href="/lineup"><span class="en">Service</span><span class="ja">サービス情報</span></a></li>
+                <li><a href="/shop"><span class="en">Shop</span><span class="ja">店舗情報</span></a></li>
+                <li><a href="/news"><span class="en">News</span><span class="ja">お知らせ</span></a></li>
               </ul>
               <ul>
-                <li><a href="#vinacolin">VINA COLIN CO.,LTD. について</a></li>
-                <li><a href="#flow">ご利用の流れ</a></li>
-                <li><a href="#pricing">料金体系</a></li>
-                <li><a href="#contact">お問い合わせ</a></li>
+                <li><a href="/about">VINA COLIN CO.,LTD. について</a></li>
+                <li><a href="/contact">お問い合わせ</a></li>
                 <li><a class="blank" href="#" target="_blank">採用情報</a></li>
                 <!--<li><a class="blank" href="#" target="_blank">フランチャイズ募集</a></li>-->
                 <!--<li><a href="/app">モバイルアプリ</a></li>-->
               </ul>
               <div class="sns">
-                <a href="https://x.com/" target="_blank"><img class="twitter" src="/images/common/icon-x.svg"
+                <a href="https://twitter.com/" target="_blank"><img class="twitter" src="/images/common/icon-x.svg"
                     alt="X"></a>
                 <a href="https://www.instagram.com/" target="_blank"><img class="instagram"
                     src="/images/common/icon-instagram.svg" alt="Instagram"></a>
@@ -664,47 +659,329 @@
       </div>
     </div>
 
+    <section class="kv-pages">
+      <picture>
+        <source media="(min-width:768px)" srcset="/images/lineup/kv-pc.jpg" /><img srcset="/images/lineup/kv-sp.jpg"
+          src="/images/lineup/kv-pc.jpg" alt="" />
+      </picture>
+    </section>
 
-    <div class="inner">
-      <section class="kv-pages">
-        <picture>
-          <source media="(min-width:768px)" srcset="/images/shop/kv-pc.jpg" /><img srcset="/images/shop/kv-sp.jpg"
-            src="/images/shop/kv-pc.jpg" alt="" />
-        </picture>
-      </section>
+    <section class="contents">
+      <div class="title-pages">
+        <h1 class="en">
+          <span class="mojiWrap"><span class="moji js-titlePages-anim">S</span></span><span class="mojiWrap"><span
+              class="moji js-titlePages-anim">e</span></span><span class="mojiWrap"><span
+              class="moji js-titlePages-anim">r</span></span><span class="mojiWrap"><span
+              class="moji js-titlePages-anim">v</span></span><span class="mojiWrap"><span
+              class="moji js-titlePages-anim">i</span></span><span class="mojiWrap"><span
+              class="moji js-titlePages-anim">c</span></span><span class="mojiWrap"><span
+              class="moji js-titlePages-anim">e</span></span>
+        </h1>
+        <p class="ja ja-lineup">サービス情報</p>
+      </div>
 
-      <section class="contents">
-        <div class="title-pages">
-          <h1 class="en">
-            <span class="mojiWrap"><span class="moji js-titlePages-anim">4</span></span><span class="mojiWrap"><span
-                class="moji js-titlePages-anim">0</span></span><span class="mojiWrap"><span
-                class="moji js-titlePages-anim">4</span></span>
-          </h1>
-          <p class="copy">お探しのページが見つかりません。<br>一時的にアクセスできない状況にあるか、 <br class="sp">移動もしくは削除された可能性があります。</p>
-          <br>
-          <a class="c-button white" href="/">
-            <p class="black">ホームに戻る</p>
-          </a>
+      <section class="newsblockWrap" id="course">
+        <div class="news-block-outer">
+          <div class="c-newsBlock">
+            <div class="inner">
+              <h2 class="title">配達方法</h2>
+              <p class="subtitle">主要な配達方法と料金の比較</p>
+              <ul>
+                <li><a href="#course">
+                    <div class="top">
+                      <p class="cate">航空便</p>
+                      <p class="date">速くて便利、料金は高め</p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">航空便の場合はおよそ1kgあたり、約2,000円~3,000円程度</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#course">
+                    <div class="top">
+                      <p class="cate">船便</p>
+                      <p class="date">料金は安く、時間はかかる</p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">船便の場合は1kgあたり、約1,000円~1,500円程度</h5>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="inner">
+              <picture>
+                <source media="(min-width:768px)" srcset="/images/lineup/imgi_3_image-380.png" /><img
+                  srcset="/images/lineup/imgi_3_image-380.png" src="/images/lineup/imgi_3_image-380.png" alt="" />
+              </picture>
+            </div>
+          </div>
         </div>
       </section>
-    </div>
+      <br>
+
+      <section class="newsblockWrap" id="period">
+        <div class="news-block-outer">
+          <div class="c-newsBlock">
+            <div class="inner">
+              <h2 class="title">配達期間</h2>
+              <p class="subtitle">およその配達日数</p>
+              <ul>
+                <li><a href="#period">
+                    <div class="top">
+                      <p class="cate">配達</p>
+                      <p class="date">配達日数（ベトナム→日本）</p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">配達日数は、航空便の場合は現地出荷日より3~4日程度となりますが、船便は1ヶ月以上かかることも多いです。</h5>
+                      <br>
+                      <h5>※通関事情、天候その他諸事情などで配達が少し遅れる場合もございます。予めご了承ください。</h5>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </section>
+      <br>
+
+      <section class="newsblockWrap" id="weight">
+        <div class="news-block-outer">
+          <div class="c-newsBlock">
+            <div class="inner">
+              <h2 class="title">重量・サイズ</h2>
+              <p class="subtitle">重量・サイズ別の料金設定</p>
+              <ul>
+                <li><a href="#weight">
+                    <div class="top">
+                      <p class="cate">重量</p>
+                      <p class="date">重量別の料金</p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">◆配達料金のレート表（kg単価表記）</h5>
+                      <table>
+                        <tr>
+                          <td align="right">4-9kg</td>
+                          <td align="right">1450円/1kg</td>
+                        </tr>
+                        <tr>
+                          <td align="right">10-19kg</td>
+                          <td align="right">985円/1kg</td>
+                        </tr>
+                        <tr>
+                          <td align="right">20-49kg</td>
+                          <td align="right">590円/1kg</td>
+                        </tr>
+                        <tr>
+                          <td align="right">50-99kg</td>
+                          <td align="right">440円/1kg</td>
+                        </tr>
+                        <tr>
+                          <td align="right">100-299kg</td>
+                          <td align="right">340円/1kg</td>
+                        </tr>
+                        <tr>
+                          <td align="right">300-499kg</td>
+                          <td align="right">330円/1kg</td>
+                        </tr>
+                        <tr>
+                          <td align="right">500-999kg</td>
+                          <td align="right">329円/1kg</td>
+                        </tr>
+                        <tr>
+                          <td align="right">1000-2000kg</td>
+                          <td align="right">315円/1kg</td>
+                        </tr>
+                      </table>
+                      <br>
+                      <h5>※弊社の優遇レート（ベトナム→日本）</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#weight">
+                    <div class="top">
+                      <p class="cate">サイズ</p>
+                      <p class="date">「適用重量」</p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title"> 輸送料金を決定する「適用重量」について</h5>
+                      <br>
+                      <h5>IATA（国際航空運送協会）基準に基づき、「梱包後の実重量」と「梱包後の容積（体積）重量」の大きい方が「適用重量」として採用されます。</h5>
+                    </div>
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="inner">
+              <picture>
+                <source media="(min-width:768px)" srcset="/images/lineup/imgi_10_image-107.png" /><img
+                  srcset="/images/lineup/imgi_10_image-107.png" src="/images/lineup/imgi_10_image-107.png" alt="" />
+              </picture>
+            </div>
+          </div>
+        </div>
+      </section>
+      <br>
+
+      <section class="newsblockWrap" id="rule">
+        <div class="news-block-outer">
+          <div class="c-newsBlock">
+            <div class="inner">
+              <h2 class="title">取扱不可品</h2>
+              <p class="subtitle">ワシントン条約の危険品について</p>
+              <ul>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">あ行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">圧縮ガス・アルコール類・引火性液体・医薬品・医療器具・液体</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">か行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">火器・弾薬・株券・貴金属・果物・ゴザ・気化性物品・切手 ・氷</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">さ行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">証券類・債権・酸化物・スプレー類・植物・鉄砲類・生鮮類・信書 ・磁石</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">た行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">刀剣類・種子・タバコ類・動物・毒物・通貨・賭博用品</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">な行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">ナマモノ・肉類</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">は行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">宝石類・爆発物・変腐敗物・美術品・ポルノ・粉末類</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">ま行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">麻薬</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">や行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">薬品類・有価証券</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">ら行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">酪農品・ライター</h5>
+                    </div>
+                  </a>
+                </li>
+                <li><a href="#rule">
+                    <div class="top">
+                      <p class="cate">わ行</p>
+                      <p class="date"></p>
+                    </div>
+                    <div class="bottom">
+                      <h5 class="title">藁・その他のワシントン条約品目</h5>
+                    </div>
+                  </a>
+                </li>
+                <div class="inner">
+                  <picture>
+                    <source media="(min-width:768px)" srcset="/images/lineup/imgi_16_image-113.png" /><img
+                      srcset="/images/lineup/imgi_16_image-113.png" src="/images/lineup/imgi_16_image-113.png" alt="" />
+                  </picture>
+                </div>
+                <br>
+                <h5>※上記、記載商品以外にも出荷できない品目もございますので詳細は直接お問い合わせください。</h5>
+                <h5>※取扱品目の制限・価格制限がある場合もございます。</h5>
+            </div>
+          </div>
+      </section>
+      <br>
+
+      <section class="newsblockWrap" id="contact">
+        <div class="news-block-outer">
+          <div class="c-newsBlock">
+            <div class="inner">
+              <h2 class="title">Contact</h2>
+              <p class="subtitle">お問い合わせ</p>
+              <div class="buttonWrap">
+                <a class="c-button blue" href="/contact">
+                  <p class="blue">Contact</p>
+                  <div class="arrow"><span class="arrow-bg blue"></span><img src="/images/common/arrow-yellow.svg" />
+                  </div>
+                </a>
+                <br>
+                <h5 style="text-align: center;" class="title">詳細は、是非お問い合わせください。</h5>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
   </main>
 
 
   <footer>
     <div class="loop">
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
-      <div class="imgWrap"><img class="text" src="/images/common/logo-back.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
+      <div class="imgWrap"><img class="text" src="/images/common/logo.png" alt="VINA COLIN" /></div>
     </div>
     <div class="inner">
       <ul class="sns">
@@ -733,29 +1010,29 @@
       <div class="links">
         <img class="pagetop js-footer-pagetop" src="/images/common/pagetop.svg" alt="Top" />
         <div class="left">
+          <a class="logo" href="/"><img src="/images/common/logo.png" alt="VINA COLIN" /></a>
           <ul>
-            <li><a href="#lineup"><img src="/images/common/icon-footer-1.svg" /><span class="en">Service</span><span
+            <li><a href="/lineup"><img src="/images/common/icon-footer-1.svg" /><span class="en">Service</span><span
                   class="ja">サービス情報</span></a></li>
-            <li><a href="#shop"><img src="/images/common/icon-footer-2.svg" /><span class="en">Shop</span><span
+            <li><a href="/shop"><img src="/images/common/icon-footer-2.svg" /><span class="en">Shop</span><span
                   class="ja">店舗情報</span></a></li>
-            <li><a href="#news"><img src="/images/common/icon-footer-3.svg" /><span class="en">News</span><span
+            <li><a href="/news"><img src="/images/common/icon-footer-3.svg" /><span class="en">News</span><span
                   class="ja">お知らせ</span></a></li>
           </ul>
         </div>
         <div class="center">
           <ul>
-            <li><a href="#flow">ご利用の流れ</a></li>
-            <li><a href="#pricing">料金体系</a></li>
-            <li><a href="#contact">お問い合わせ</a></li>
+            <li><a href="/about">VINA COLIN CO.,LTD. について</a></li>
+            <li><a href="/contact">お問い合わせ</a></li>
             <li><a class="blank" href="#" target="_blank">採用情報</a></li>
+            <!--<li><a class="blank" href="#" target="_blank">フランチャイズ募集</a></li>-->
+            <!--<li><a href="/app">モバイルアプリ</a></li>-->
           </ul>
         </div>
         <div class="right">
           <ul>
-            <li><a href="#vinacolin">VINA COLIN CO.,LTD. について</a></li>
-            <li><a href="#">プライバシーポリシー</a></li>
-            <!--<li><a class="blank" href="#" target="_blank">フランチャイズ募集</a></li>-->
-            <!--<li><a href="/app">モバイルアプリ</a></li>-->
+            <li><a class="blank" href="#" target="_blank">企業情報</a></li>
+            <li><a class="blank" href="#" target="_blank">プライバシーポリシー</a></li>
           </ul>
         </div>
       </div>

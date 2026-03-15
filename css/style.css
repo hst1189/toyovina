@@ -724,6 +724,7 @@ footer>.inner .links a {
 
 footer>.inner .links .left {
     margin-right: 120px;
+    padding-top: 6.15vw;
     width: 232px;
     /*border: 1px, solid, #eb5757;*/
 }
@@ -4891,7 +4892,7 @@ footer>.inner .copyright {
 
 @media(max-width:768px) {
     .p-index>.inner>.loop .inner span {
-        background-image: url(/images/index/loop-sp.png);
+        background-image: url(/images/index/loop.png);
         height: 11.79vw;
         width: 199.48vw
     }
@@ -5693,7 +5694,7 @@ footer>.inner .copyright {
 }
 
 .p-index .fixedBnr button {
-    background-image: url(/images/common/ico-close.svg);
+    /*background-image: url(/images/common/ico-close.svg);*/
     background-repeat: no-repeat;
     background-size: cover;
     cursor: pointer;
